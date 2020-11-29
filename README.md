@@ -1,3 +1,3 @@
-<img src="/img/web-developer.jpg">
+<img src="/img/code-banner.jpg" alt="Web Developer" height="150">
 
 ### Hi there 👋
