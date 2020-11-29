@@ -5,9 +5,14 @@
   <a href="https://github.com/sponsors/ChristianGrimberg">
         <img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors">
   </a>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=ChristianGrimberg&style=flat-square&color=blueviolet" alt="Profile Views">
+  </a>
 </p>
 
 ### Hi there and welcome to my [GitHub profile]() <img src="/img/Hi.gif?raw=true" width="30px">
+
+<img align="right" alt="GIF" src="/img/code.gif?raw=true" width="300" height="220" />
 
 My name is Christian Grimberg and I am a web developer from Buenos Aires, Argentina. I do a lot of things, and some of them you may even find interesting. :+1:
 
