@@ -1,3 +1,3 @@
-<div style="background-image: url('/img/lights.jpg');">
+<img src="/img/web-developer.jpg">
 
 ### Hi there 👋
