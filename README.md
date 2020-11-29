@@ -1,6 +1,6 @@
 <img src="/img/build.jpeg" alt="banner" align="center" />
 
-### Hi there and welcome to my GitHub profile 👋
+### Hi there and welcome to my [GitHub profile]() <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">
 
 My name is Christian Grimberg and I am a web developer from Buenos Aires, Argentina. I do a lot of things, and some of them you may even find interesting. :+1:
 
@@ -42,3 +42,13 @@ My name is Christian Grimberg and I am a web developer from Buenos Aires, Argent
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianGrimberg&show_icons=true&theme=vue&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&langs_count=10)](https://github.com/ChristianGrimberg/github-readme-stats)
+
+---
+
+<p align="center">
+  <i>Follow me!</i>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://github.com/ChristianGrimberg" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+  </p>
+</p>
