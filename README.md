@@ -16,6 +16,8 @@ My name is Christian Grimberg and I am a web developer from Buenos Aires, Argent
   <img alt="Shell Script" src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Powershell" src="https://img.shields.io/badge/Powershell-0089D6?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
 * I’m working on <a href="https://github.com/novocap">Laboratorios Novocap</a>.
