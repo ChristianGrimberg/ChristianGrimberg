@@ -39,6 +39,6 @@ My name is Christian Grimberg and I am a web developer from Buenos Aires, Argent
 
 ### Github stats
 
-![Christian Grimberg's github stats](https://github-readme-stats.vercel.app/api?username=ChristianGrimberg&show_icons=true&theme=radical&count_private=true)
+![Christian Grimberg's github stats](https://github-readme-stats.vercel.app/api?username=ChristianGrimberg&show_icons=true&theme=vue&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg)](https://github.com/ChristianGrimberg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&langs_count=10)](https://github.com/ChristianGrimberg/github-readme-stats)
