@@ -10,7 +10,7 @@
   </a>
 </p>
 
-### Hi there and welcome to my [GitHub profile]() <img src="/img/Hi.gif?raw=true" width="30px">
+### Hi there and welcome to my [GitHub profile](/README.md) <img src="/img/Hi.gif?raw=true" width="30px">
 
 <img align="right" alt="GIF" src="/img/code.gif?raw=true" width="300" height="220" />
 
