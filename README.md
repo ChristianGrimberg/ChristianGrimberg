@@ -1,4 +1,4 @@
-<img src="/img/web-developer.jpg" alt="banner" align="center" />
+<img src="/img/build.jpeg" alt="banner" align="center" />
 
 ### Hi there and welcome to my GitHub profile 👋
 
