@@ -1,6 +1,4 @@
-<img src="/img/build.jpeg" alt="banner" align="center" />
-
-### Hi there and welcome to my [GitHub profile]() <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">
+### Hi there and welcome to my [GitHub profile]() <img src="/img/Hi.gif?raw=true" width="30px">
 
 My name is Christian Grimberg and I am a web developer from Buenos Aires, Argentina. I do a lot of things, and some of them you may even find interesting. :+1:
 
@@ -51,4 +49,12 @@ My name is Christian Grimberg and I am a web developer from Buenos Aires, Argent
     <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
     <a href="https://github.com/ChristianGrimberg" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
   </p>
+</p>
+<p>
+  <a href="https://github.com/ChristianGrimberg">
+        <img src="https://img.shields.io/github/followers/ChristianGrimberg.svg?label=GitHub&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/sponsors/ChristianGrimberg">
+        <img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors">
+  </a>
 </p>
