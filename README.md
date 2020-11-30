@@ -10,15 +10,15 @@
   </a>
 </p>
 
-### Hi there and welcome to my [GitHub profile](/README.md) <img src="/img/Hi.gif?raw=true" width="30px">
+### Hi there and welcome to my [GitHub profile](/README.md) <img src="img/Hi.gif?raw=true" width="30px">
 
-<img align="right" alt="GIF" src="/img/code.gif?raw=true" width="300" height="220" />
+<img align="right" alt="GIF" src="img/code.gif?raw=true" width="300" height="220" />
 
 My name is Christian Grimberg and I am a web developer from Buenos Aires, Argentina. I do a lot of things, and some of them you may even find interesting. :+1:
 
 ---
 
-### Tech Tools and Languages
+### What can I do?
 
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
