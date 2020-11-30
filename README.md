@@ -18,7 +18,7 @@ My name is Christian Grimberg and I am a web developer from Buenos Aires, Argent
 
 ---
 
-### What do I do?
+### Tech Tools and Languages
 
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
