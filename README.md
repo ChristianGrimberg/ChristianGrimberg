@@ -70,7 +70,6 @@ Here is where you can find me <img alt="Linkedin" src="https://img.shields.io/ba
   </tr>
 </table>
 
----
 
 <p align="center">
   <i>Follow me on Social Networks</i>
