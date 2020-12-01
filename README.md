@@ -55,7 +55,7 @@ __#LifeLongLearningEnthusiastic__
 
 ### Send me a message!
 
-* I am open for collaborations, so if you find my work interesting feel free to send me a message!
+I am open for collaborations, so if you find my work interesting feel free to send me a message!
 
 Here is where you can find me 
 <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin">
