@@ -63,7 +63,7 @@ Here is where you can find me <img alt="Linkedin" src="https://img.shields.io/ba
 
 ### My Github Stats
 
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0" BORDERCOLOR=WHITE BORDERCOLORLIGHT=WHITE BORDERCOLORDARK=WHITE>
   <tr>
     <td><img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=ChristianGrimberg&show_icons=true&theme=vue&count_private=true" /></td>
     <td><img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&langs_count=10" /></td>
