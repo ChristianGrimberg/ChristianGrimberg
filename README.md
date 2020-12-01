@@ -12,7 +12,7 @@
 
 ## Hi there and welcome to my __GitHub profile__
 
-<img align="right" alt="GIF" src="img/code.gif?raw=true" width="300" height="220" />
+<img align="right" alt="GIF" src="img/code.gif?raw=true" width="200" />
 
 My name is Christian Grimberg and I am a System Administrator & IT Compliance Specialist from Buenos Aires, Argentina. 
 
@@ -63,7 +63,7 @@ Here is where you can find me <img alt="Linkedin" src="https://img.shields.io/ba
 
 ### My Github Stats
 
-<table cellspacing="0" cellpadding="0" BORDERCOLOR=WHITE BORDERCOLORLIGHT=WHITE BORDERCOLORDARK=WHITE>
+<table>
   <tr>
     <td><img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=ChristianGrimberg&show_icons=true&theme=vue&count_private=true" /></td>
     <td><img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&langs_count=10" /></td>
