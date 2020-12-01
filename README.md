@@ -20,6 +20,8 @@ I like new challenges and I am passionate about learning new things all the time
 
 __#LifeLongLearningEnthusiastic__
 
+<br>
+
 ---
 
 ### About my experience and preferences
