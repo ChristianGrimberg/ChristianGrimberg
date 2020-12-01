@@ -10,55 +10,70 @@
   </a>
 </p>
 
-### Hi there and welcome to my [GitHub profile](/README.md) <img src="img/Hi.gif?raw=true" width="30px">
+## Hi there and welcome to my __GitHub profile__
 
 <img align="right" alt="GIF" src="img/code.gif?raw=true" width="300" height="220" />
 
-My name is Christian Grimberg and I am a web developer from Buenos Aires, Argentina. I do a lot of things, and some of them you may even find interesting. :+1:
+My name is Christian Grimberg and I am a System Administrator & IT Compliance Specialist from Buenos Aires, Argentina. 
+
+I like new challenges and I am passionate about learning new things all the time. 
+
+__#LifeLongLearningEnthusiastic__
 
 ---
 
-### What can I do?
+### About my experience and preferences
 
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/ANSI_C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img alt="Shell Script" src="https://img.shields.io/badge/Bash_Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img alt="Bash Shell Script" src="https://img.shields.io/badge/GNU_Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img alt="Powershell" src="https://img.shields.io/badge/Powershell-0089D6?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
-* I’m working on <a href="https://github.com/novocap">Laboratorios Novocap</a>.
+* I work at [Laboratorios Novocap](https://github.com/novocap), where it allows me to develop my favorite skills and enjoy everything I do. 😍
+* I have been Managing Systems, Networks and Databases since 2009. I have been working with Cloud Technologies since 2012. ☁️
+* My favorite Linux distribution is <img alt="Fedora" src="https://img.shields.io/badge/Fedora_Workstation-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+* My favorite IDE is <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+* The syntax of programming languages that I like the most are those that are based on <img alt="C" src="https://img.shields.io/badge/ANSI_C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+* My first programming language was __SQL DEV__ based on procedural orientation. Later I defined my preferences in object-oriented languages.
+* Currently I am interested in continuing my development of skills in technologies based on __Continuos Integration/Continuos Delivery__.
 
 ---
 
 ### Send me a message!
 
-* I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
+* I am open for collaborations, so if you find my work interesting feel free to send me a message!
 
-<p>
-  <a href="https://www.linkedin.com/in/christiangrimberg/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+Here is where you can find me <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
 
 ---
 
-### Github stats
+### My Github Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianGrimberg&show_icons=true&theme=vue&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&langs_count=10)](https://github.com/ChristianGrimberg/github-readme-stats)
+<table>
+  <tr>
+    <td><img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=ChristianGrimberg&show_icons=true&theme=vue&count_private=true" /></td>
+    <td><img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&langs_count=10" /></td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <i>Follow me!</i>
+  <i>Follow me on Social Networks</i>
   <p align="center">
     <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
     <a href="https://github.com/ChristianGrimberg" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
