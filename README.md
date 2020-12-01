@@ -21,8 +21,7 @@ I like new challenges and I am passionate about learning new things all the time
 __#LifeLongLearningEnthusiastic__
 
 <br>
-
----
+<hr>
 
 ### About my experience and preferences
 
@@ -53,25 +52,22 @@ __#LifeLongLearningEnthusiastic__
 * My first programming language was __SQL DEV__ based on procedural orientation. Later I defined my preferences in object-oriented languages.
 * Currently I am interested in continuing my development of skills in technologies based on __Continuos Integration/Continuos Delivery__.
 
----
+<hr>
 
 ### Send me a message!
 
 I am open for collaborations, so if you find my work interesting feel free to send me a message!
 
-Here is where you can find me 
-<a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin">
+Here is where you can find me <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
-
----
+<hr>
 
 ### My Github Stats
 
 <table>
   <tr>
     <td><img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=ChristianGrimberg&show_icons=true&theme=vue&count_private=true" /></td>
-    <td><img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&langs_count=5" /></td>
+    <td><img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&langs_count=3" /></td>
   </tr>
 </table>
 
