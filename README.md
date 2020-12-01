@@ -44,7 +44,7 @@ __#LifeLongLearningEnthusiastic__
   <img alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
-* 😍 I work at [Laboratorios Novocap](https://github.com/novocap), where it allows me to develop my favorite skills and enjoy everything I do.
+* 😍 I'm working at [Laboratorios Novocap](https://github.com/novocap), where it allows me to develop my favorite skills and enjoy everything I do.
 * ☁️ I have been Managing Systems, Networks and Databases since 2009. I have been working with Cloud Technologies since 2012.
 * My favorite Linux distribution is <img alt="Fedora" src="https://img.shields.io/badge/Fedora_Workstation-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 * My favorite IDE is <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
