@@ -10,7 +10,7 @@
   </a>
 </p>
 
-## Hi there and welcome to my __GitHub profile__
+# Hi there and welcome to my __GitHub profile__
 
 <img align="right" alt="GIF" src="img/code.gif?raw=true" width="200" />
 
