@@ -62,6 +62,7 @@ Here is where you can find me <a href="https://www.linkedin.com/in/christiangrim
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
 <hr>
 
+<!--
 ### My Github Stats
 
 <table>
@@ -70,12 +71,14 @@ Here is where you can find me <a href="https://www.linkedin.com/in/christiangrim
     <td><img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&langs_count=3" /></td>
   </tr>
 </table>
-
+-->
 
 <p align="center">
   <i>Follow me on Social Networks</i>
   <p align="center">
-    <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="https://github.com/ChristianGrimberg" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+    <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin"><img src="img/LinkedInBarCode.jpg" width="384" /></a>
+    </p>
+    <p align="center">
+    <a href="https://github.com/ChristianGrimberg" alt="GitHub"><img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
   </p>
 </p>
