@@ -23,7 +23,7 @@ __#LifeLongLearningEnthusiastic__
 <br>
 <hr>
 
-## About my experience and preferences
+### About my experience and preferences
 
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -54,7 +54,7 @@ __#LifeLongLearningEnthusiastic__
 
 <hr>
 
-## Send me a message!
+### Send me a message!
 
 I am open for collaborations, so if you find my work interesting feel free to send me a message!
 
