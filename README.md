@@ -23,7 +23,7 @@ __#LifeLongLearningEnthusiastic__
 <br>
 <hr>
 
-### About my experience and preferences
+## About my experience and preferences
 
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -54,13 +54,28 @@ __#LifeLongLearningEnthusiastic__
 
 <hr>
 
-### Send me a message!
+## Send me a message!
 
 I am open for collaborations, so if you find my work interesting feel free to send me a message!
 
-Here is where you can find me <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin">
-  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+<p align="center">
+  <i>Here is where you can find me</i>
+  <br />
+  <br />
+  <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin"><img src="img/LinkedInBarCode.jpg" width="384" /></a>
+  <!--
+  <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  -->
+</p>
 <hr>
+<p align="center">
+  <i>Follow me on Social Networks</i>
+  <br />
+  <br />
+    <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="64" width="64" /></a>
+    <a href="https://github.com/ChristianGrimberg" alt="GitHub"><img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+</p>
 
 <!--
 ### My Github Stats
@@ -72,13 +87,3 @@ Here is where you can find me <a href="https://www.linkedin.com/in/christiangrim
   </tr>
 </table>
 -->
-
-<p align="center">
-  <i>Follow me on Social Networks</i>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin"><img src="img/LinkedInBarCode.jpg" width="384" /></a>
-    </p>
-    <p align="center">
-    <a href="https://github.com/ChristianGrimberg" alt="GitHub"><img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-  </p>
-</p>
