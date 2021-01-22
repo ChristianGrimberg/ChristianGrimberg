@@ -52,7 +52,9 @@ __#LifeLongLearningEnthusiastic__
 * My first programming language was __SQL DEV__ based on procedural orientation. Later I defined my preferences in object-oriented languages.
 * Currently I am interested in continuing my development of skills in technologies based on __Continuos Integration/Continuos Delivery__.
 
-![ChristianGrimberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiangrimberg&count_private=true&show_icons=true&theme=tokyonight)
+![ChristianGrimberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiangrimberg&count_private=true&show_icons=true&theme=dark)
+
+![ChristianGrimberg's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&layout=compact&hide=html&theme=dark)
 
 <hr>
 
