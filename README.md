@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <a href="https://github.com/ChristianGrimberg">
         <img src="https://img.shields.io/github/followers/ChristianGrimberg.svg?label=GitHub&style=social" alt="GitHub Followers">
   </a>
