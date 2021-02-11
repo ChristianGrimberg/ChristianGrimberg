@@ -2,12 +2,14 @@
   <a href="https://github.com/ChristianGrimberg">
         <img src="https://img.shields.io/github/followers/ChristianGrimberg.svg?label=GitHub&style=social" alt="GitHub Followers">
   </a>
+  <!--
   <a href="https://github.com/sponsors/ChristianGrimberg">
         <img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors">
   </a>
   <a>
     <img src="https://komarev.com/ghpvc/?username=ChristianGrimberg&style=flat-square&color=blueviolet" alt="Profile Views">
   </a>
+  -->
 </p>
 
 # Hi there and welcome to my __GitHub profile__
@@ -52,9 +54,9 @@ __#LifeLongLearningEnthusiastic__
 * My first programming language was __SQL DEV__ based on procedural orientation. Later I defined my preferences in object-oriented languages.
 * Currently I am interested in continuing my development of skills in technologies based on __Continuos Integration/Continuos Delivery__.
 
-![ChristianGrimberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiangrimberg&count_private=true&show_icons=true&theme=dark)
-
 ![ChristianGrimberg's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&layout=compact&hide=html&theme=dark)
+
+![ChristianGrimberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiangrimberg&count_private=true&show_icons=true&theme=dark)
 
 <hr>
 
