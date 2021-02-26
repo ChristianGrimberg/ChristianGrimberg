@@ -3,9 +3,6 @@
         <img src="https://img.shields.io/github/followers/ChristianGrimberg.svg?label=GitHub&style=social" alt="GitHub Followers">
   </a>
   <!--
-  <a href="https://github.com/sponsors/ChristianGrimberg">
-        <img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors">
-  </a>
   <a>
     <img src="https://komarev.com/ghpvc/?username=ChristianGrimberg&style=flat-square&color=blueviolet" alt="Profile Views">
   </a>
@@ -21,9 +18,6 @@ My name is Christian Grimberg and I am a System Administrator & IT Compliance Sp
 I like new challenges and I am passionate about learning new things all the time. 
 
 __#LifeLongLearningEnthusiastic__
-
-<br>
-<hr>
 
 ## About my experience and preferences
 
