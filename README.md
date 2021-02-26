@@ -25,7 +25,7 @@ __#LifeLongLearningEnthusiastic__
 <br>
 <hr>
 
-### About my experience and preferences
+## About my experience and preferences
 
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -46,6 +46,8 @@ __#LifeLongLearningEnthusiastic__
   <img alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
+![ChristianGrimberg's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&layout=compact&hide=html&theme=dark)
+
 * 😍 I'm working at [Laboratorios Novocap](https://github.com/novocap), where it allows me to develop my favorite skills and enjoy everything I do.
 * ☁️ I have been Managing Systems, Networks and Databases since 2009. I have been working with Cloud Technologies since 2012.
 * My favorite Linux distribution is <img alt="Linux Deepin" src="https://img.shields.io/badge/Linux_Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white" />
@@ -54,42 +56,4 @@ __#LifeLongLearningEnthusiastic__
 * My first programming language was __SQL DEV__ based on procedural orientation. Later I defined my preferences in object-oriented languages.
 * Currently I am interested in continuing my development of skills in technologies based on __Continuos Integration/Continuos Delivery__.
 
-![ChristianGrimberg's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&layout=compact&hide=html&theme=dark)
-
 ![ChristianGrimberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiangrimberg&count_private=true&show_icons=true&theme=dark)
-
-<hr>
-
-### Send me a message!
-
-I am open for collaborations, so if you find my work interesting feel free to send me a message!
-
-<p align="center">
-  <i>Here is where you can find me</i>
-  <br />
-  <br />
-  <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin"><img src="img/LinkedInBarCode.jpg" width="384" /></a>
-  <!--
-  <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  -->
-</p>
-<hr>
-<p align="center">
-  <i>Follow me on Social Networks</i>
-  <br />
-  <br />
-    <a href="https://www.linkedin.com/in/christiangrimberg" alt="Linkedin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="64" width="64" /></a>
-    <a href="https://github.com/ChristianGrimberg" alt="GitHub"><img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-</p>
-
-<!--
-### My Github Stats
-
-<table>
-  <tr>
-    <td><img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&langs_count=3" /></td>
-    <td><img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=ChristianGrimberg&show_icons=true&theme=vue&count_private=true" /></td>
-  </tr>
-</table>
--->
