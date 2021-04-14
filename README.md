@@ -9,7 +9,7 @@
   -->
 </p>
 
-# Hi there and welcome to my __GitHub profile__
+## Hi there and welcome to my __GitHub profile__
 
 <img align="right" alt="GIF" src="img/code.gif?raw=true" width="200" />
 
@@ -19,7 +19,9 @@ I like new challenges and I am passionate about learning new things all the time
 
 __#LifeLongLearningEnthusiastic__
 
-## About my experience and preferences
+### About my experience and preferences
+
+![](img/gridbar.png)
 
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -40,7 +42,10 @@ __#LifeLongLearningEnthusiastic__
   <img alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
-![ChristianGrimberg's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&layout=compact&hide=html&theme=dark)
+![](img/gridbar.png)
+
+![ChristianGrimberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiangrimberg&count_private=true&show_icons=true&theme=dark&layout=compact)
+<!-- ![ChristianGrimberg's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&layout=compact&hide=html&theme=dark) -->
 
 * 😍 I'm working at [Laboratorios Novocap](https://github.com/novocap), where it allows me to develop my favorite skills and enjoy everything I do.
 * ☁️ I have been Managing Systems, Networks and Databases since 2009. I have been working with Cloud Technologies since 2012.
@@ -49,5 +54,3 @@ __#LifeLongLearningEnthusiastic__
 * The syntax of programming languages that I like the most are those that are based on <img alt="C" src="https://img.shields.io/badge/ANSI_C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 * My first programming language was __SQL DEV__ based on procedural orientation. Later I defined my preferences in object-oriented languages.
 * Currently I am interested in continuing my development of skills in technologies based on __Continuos Integration/Continuos Delivery__.
-
-![ChristianGrimberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiangrimberg&count_private=true&show_icons=true&theme=dark)
