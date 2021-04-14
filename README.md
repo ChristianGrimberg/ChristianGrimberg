@@ -9,7 +9,7 @@
   -->
 </p>
 
-## Hi there and welcome to my __GitHub profile__
+# Hi there and welcome to my __GitHub profile__
 
 <img align="right" alt="GIF" src="img/code.gif?raw=true" width="200" />
 
@@ -19,7 +19,7 @@ I like new challenges and I am passionate about learning new things all the time
 
 __#LifeLongLearningEnthusiastic__
 
-### About my experience and preferences
+## About my experience and preferences
 
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
