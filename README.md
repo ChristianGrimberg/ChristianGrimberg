@@ -13,7 +13,7 @@
 
 <img align="right" alt="GIF" src="img/code.gif?raw=true" width="200" />
 
-My name is Christian Grimberg and I am a System Administrator & IT Compliance Specialist from Buenos Aires, Argentina. 
+My name is Christian Grimberg and I am a System Administrator & Solutions Architect from Buenos Aires, Argentina. 
 
 I like new challenges and I am passionate about learning new things all the time. 
 
