@@ -1,13 +1,13 @@
+<!--
 <p align="right">
   <a href="https://github.com/ChristianGrimberg">
         <img src="https://img.shields.io/github/followers/ChristianGrimberg.svg?label=GitHub&style=social" alt="GitHub Followers">
   </a>
-  <!--
   <a>
     <img src="https://komarev.com/ghpvc/?username=ChristianGrimberg&style=flat-square&color=blueviolet" alt="Profile Views">
   </a>
-  -->
 </p>
+-->
 
 # Hi there and welcome to my __GitHub profile__
 
