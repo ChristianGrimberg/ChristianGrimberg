@@ -13,7 +13,7 @@
 
 <img align="right" alt="GIF" src="img/code.gif?raw=true" width="200" />
 
-My name is Christian Grimberg and I am a Systems Administrator and Solutions Architect with a professional career of more than 10 years of experience within the Pharmaceutical Industry, focused on continuous improvement through the use of technology and on providing solutions that maximize value for the organization.
+My name is Christian Grimberg and I am a System Administrator and Solutions Architect with a professional career of more than 10 years of experience within the Pharmaceutical Industry, focused on continuous improvement through the use of technology and on providing solutions that maximize value for the organization.
 
 I like new challenges and I am passionate about learning new things all the time. 
 
