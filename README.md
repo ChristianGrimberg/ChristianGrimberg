@@ -6,7 +6,7 @@
 
 My name is Christian Grimberg and I am a System Administrator and Solutions Architect with a professional career with more than 10 years of experience in the Pharmaceutical Industry, focused on continuous improvement through the use of technology and on providing solutions that maximize value for the organization.
 
-I like new challenges and I am passionate about learning new things all the time. __#LifelongLearningEnthusiastc__
+I like new challenges and I am passionate about learning new things all the time. __#LifelongLearningEnthusiastic__
 
 ## About my experience and preferences
 
