@@ -1,13 +1,4 @@
-<!--
-<p align="right">
-  <a href="https://github.com/ChristianGrimberg">
-        <img src="https://img.shields.io/github/followers/ChristianGrimberg.svg?label=GitHub&style=social" alt="GitHub Followers">
-  </a>
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=ChristianGrimberg&style=flat-square&color=blueviolet" alt="Profile Views">
-  </a>
-</p>
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Christian_Grimberg-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christiangrimberg/)](https://www.linkedin.com/in/christiangrimberg/)
 
 # Hi there and welcome to my __GitHub profile__
 
@@ -42,7 +33,7 @@ I like new challenges and I am passionate about learning new things all the time
 
 * 😍 I'm working at [Laboratorios Novocap](https://github.com/novocap), where it allows me to develop my favorite skills and enjoy everything I do.
 * ☁️ I have been Managing Systems, Networks and Databases since 2009. I have been working with Cloud Technologies since 2012.
-* My favorite Linux distribution is <img alt="Fedora" src="https://img.shields.io/badge/Fedora_Workstation-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+* My favorite Linux distribution is <img alt="Fedora" src="https://img.shields.io/badge/Debian-d70a53?style=for-the-badge&logo=debian&logoColor=white" />
 * My favorite IDE is <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 * The syntax of programming languages that I like the most are those that are based on <img alt="C" src="https://img.shields.io/badge/ANSI_C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 * My first programming language was __SQL DEV__ based on procedural orientation. Later I defined my preferences in object-oriented languages.
