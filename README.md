@@ -1,27 +1,27 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Christian_Grimberg-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christiangrimberg/)](https://www.linkedin.com/in/christiangrimberg/)
 [![GitHub followers](https://img.shields.io/github/followers/ChristianGrimberg?style=social)](https://github.com/ChristianGrimberg)
 
-# 👋 ¡Bienvenido/a! Soy Christian Grimberg
+# 👋 Welcome! I'm Christian Grimberg
 
 <img align="right" alt="Coding" src="img/code.gif?raw=true" width="220" />
 
-**Administrador de Sistemas & Arquitecto de Soluciones** con más de 10 años de experiencia en la industria farmacéutica. Apasionado por la tecnología, la automatización, la nube y la mejora continua. Enfocado siempre en aprender, compartir y enfrentar nuevos retos.
+**Systems Administrator & Solutions Architect** with over 10 years of experience in the pharmaceutical industry. Passionate about technology, automation, cloud computing, and continuous improvement. Always focused on learning, sharing, and taking on new challenges.
 
 ---
 
-## ⚡ Sobre mí
+## ⚡ About Me
 
-- 🔭 Trabajo en [Laboratorios Novocap](https://github.com/novocap), donde combino mi pasión por la tecnología y la innovación.
-- ☁️ Experto en sistemas, redes, bases de datos y tecnologías Cloud desde 2012.
-- 🐧 Fan de Linux (Debian lover) y la filosofía Open Source.
-- 🧑‍💻 Mi primer lenguaje fue SQL DEV (procedural), hoy prefiero los lenguajes orientados a objetos.
-- 🤖 En constante formación: automatización, CI/CD, DevOps y nuevas tecnologías.
-- 💡 Creo en el aprendizaje continuo y en la colaboración como motor de crecimiento profesional.
-- ✨ Siempre abierto a colaborar en proyectos interesantes y desafiantes.
+- 🔭 I work at [Laboratorios Novocap](https://github.com/novocap), where I combine my passion for technology and innovation.
+- ☁️ Expert in systems, networks, databases, and Cloud technologies since 2012.
+- 🐧 A fan of Linux (Debian lover) and the Open Source philosophy.
+- 🧑‍💻 My first language was SQL DEV (procedural); today, I prefer object-oriented languages.
+- 🤖 Continuously learning: automation, CI/CD, DevOps, and new technologies.
+- 💡 I believe in continuous learning and collaboration as drivers of professional growth.
+- ✨ Always open to collaborating on interesting and challenging projects.
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Technologies & Tools
 
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -46,27 +46,23 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
 
 ![](img/gridbar.png)
 
 ![ChristianGrimberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiangrimberg&count_private=true&show_icons=true&theme=dark&layout=compact)
-<!--
-![ChristianGrimberg's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&layout=compact&hide=html&theme=dark)
--->
-
 ---
 
-## 🤝 ¿Colaboramos?
+## 🤝 Let's Collaborate!
 
-Siempre estoy abierto a nuevas oportunidades, ideas y colaboraciones. Si tienes un proyecto interesante o simplemente quieres conectar, ¡no dudes en escribirme!
+I'm always open to new opportunities, ideas, and collaborations. If you have an interesting project or simply want to connect, feel free to reach out!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/christiangrimberg/)
 - 🐙 [GitHub](https://github.com/ChristianGrimberg)
 
 ---
 
-> “La tecnología es mejor cuando une a las personas.”  
+> “Technology is best when it brings people together.”
 > — Matt Mullenweg
 
 ---
