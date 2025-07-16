@@ -3,8 +3,6 @@
 
 # 👋 Welcome! I'm Christian Grimberg
 
-<img align="right" alt="Coding" src="img/code.gif?raw=true" width="220" />
-
 **Systems Administrator & Solutions Architect** with over 10 years of experience in the pharmaceutical industry. Passionate about technology, automation, cloud computing, and continuous improvement. Always focused on learning, sharing, and taking on new challenges.
 
 ---
