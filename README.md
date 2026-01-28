@@ -1,4 +1,3 @@
-
 <div align="center">
   <br />
   <img src="https://github.com/ChristianGrimberg/ChristianGrimberg/blob/main/img/gridbar.png" alt="Christian Grimberg Banner" width="100%">
@@ -21,12 +20,27 @@
 
 ---
 
+### 🏆 Achievements & Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-204">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="DP-900">
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ChristianGrimberg&theme=darkhub&no-bg=true&column=7" alt="Christian's Trophies" />
+  </a>
+</div>
+
+---
+
 ### 👨‍💻 About Me
 
-I am a **Software Engineer** at **[Novocap](https://github.com/novocap)**, specializing in building robust enterprise solutions. My passion lies in designing clean architectures, automating complex workflows, and exploring the bleeding edge of technology.
+I am a **Software Engineer** at **[Novocap](https://github.com/novocap)**, specializing in building robust enterprise solutions. My passion lies in designing clean architectures, automating complex workflows, and staying at the cutting edge of the Microsoft ecosystem.
 
-*   🔭 I’m currently working on **Enterprise Architecture with .NET 10** and **AI Agent Integration**.
-*   🌱 I’m deeply focused on **DevOps Automation**, **PowerShell** scripting, and **Cloud Infrastructure**.
+*   🔭 I'm currently working on **Enterprise Architecture with .NET 10** and **AI Agent Integration**.
+*   🌱 I'm deeply focused on **DevOps Automation**, **PowerShell** scripting, and **Cloud Infrastructure**.
 *   🤖 I believe in the power of **AI** to augment developer productivity (check out my [`AGENTS.md`](./AGENTS.md)!).
 *   ⚡ **Fun fact**: I automate everything I can — if I have to do it twice, I write a script.
 
@@ -59,7 +73,7 @@ I am a **Software Engineer** at **[Novocap](https://github.com/novocap)**, speci
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Consistency
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -68,10 +82,19 @@ I am a **Software Engineer** at **[Novocap](https://github.com/novocap)**, speci
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&layout=compact&theme=dark" alt="Top Languages">
   </a>
+  <br />
+  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianGrimberg&theme=dark" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <i>“Technology is best when it brings people together.” — Matt Mullenweg</i>
+  <i>"Technology is best when it brings people together." — Matt Mullenweg</i>
+  <br />
+  <br />
+  <a href="https://linkedin.com/in/christiangrimberg">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
