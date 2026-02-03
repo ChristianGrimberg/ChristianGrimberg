@@ -7,6 +7,8 @@
     <a href="https://github.com/ChristianGrimberg">
       <img src="https://img.shields.io/github/followers/ChristianGrimberg?label=Followers&style=social" alt="GitHub Followers">
     </a>
+  </p>
+  <p>
     <a href="https://linkedin.com/in/christiangrimberg">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
     </a>
