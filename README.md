@@ -1,16 +1,14 @@
-![banner](./img/gridbar.png)
-
 # Hi there, I'm Christian Grimberg! <img src="./img/giphy.gif" width="30px">
 
 <div align="center">
   <p>
-    <a href="https://github.com/ChristianGrimberg">
-      <img src="https://img.shields.io/github/followers/ChristianGrimberg?label=Followers&style=social" alt="GitHub Followers">
+    <a href="https://linkedin.com/in/christiangrimberg">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
   <p>
-    <a href="https://linkedin.com/in/christiangrimberg">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
+    <a href="https://github.com/ChristianGrimberg">
+      <img src="https://img.shields.io/github/followers/ChristianGrimberg?label=Followers&style=social" alt="GitHub Followers">
     </a>
   </p>
 </div>
@@ -60,12 +58,8 @@ I am a Systems Administrator and Solutions Architect with over 10 years of exper
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&layout=compact&theme=dark)
 
----
+![banner](./img/gridbar.png)
 
 <div align="center">
   <i>"Technology is best when it brings people together." — Matt Mullenweg</i>
-  <br />
-  <a href="https://linkedin.com/in/christiangrimberg">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
 </div>
