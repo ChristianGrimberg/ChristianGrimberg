@@ -25,12 +25,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-204">
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="DP-900">
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ChristianGrimberg&theme=darkhub&no-bg=true&column=7" alt="Christian's Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Security,%20Compliance%20and%20Identity%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="SC-900">
 </div>
 
 ---
@@ -75,18 +70,9 @@ I am a **Software Engineer** at **[Novocap](https://github.com/novocap)**, speci
 
 ### 📈 GitHub Stats & Consistency
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristianGrimberg&show_icons=true&theme=dark" alt="Christian's GitHub Stats">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&layout=compact&theme=dark" alt="Top Languages">
-  </a>
-  <br />
-  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianGrimberg&theme=dark" alt="GitHub Streak" />
-  </a>
-</div>
+![My stats](https://github-readme-stats.vercel.app/api?username=christiangrimberg&count_private=true&show_icons=true&theme=dark&layout=compact)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&layout=compact&theme=dark)
 
 ---
 
