@@ -5,7 +5,7 @@
 <div align="center">
   <p>
     <a href="https://github.com/ChristianGrimberg">
-      <img src="https://img.shields.io/github/followers/ChristianGrimberg?label=GitHub Followers&style=social" alt="GitHub Followers">
+      <img src="https://img.shields.io/github/followers/ChristianGrimberg?label=Followers&style=social" alt="GitHub Followers">
     </a>
     <a href="https://linkedin.com/in/christiangrimberg">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
@@ -55,10 +55,6 @@ I am a Systems Administrator and Solutions Architect with over 10 years of exper
 </p>
 
 ## 📈 GitHub Stats
-
-[![My stats](https://github-readme-stats.vercel.app/api?username=christiangrimberg&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My Stats](https://streak-stats.demolab.com/?user=ChristianGrimberg)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&layout=compact&theme=dark)
 
