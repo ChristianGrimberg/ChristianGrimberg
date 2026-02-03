@@ -15,14 +15,6 @@
   </p>
 </div>
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-204">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="DP-900">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Security,%20Compliance%20and%20Identity%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="SC-900">
-</div>
-
 ## 👨‍💻 About Me
 
 I am a Systems Administrator and Solutions Architect with over 10 years of experience in the pharmaceutical industry. I am passionate about technology, automation, cloud computing, artificial intelligence, and continuous improvement. I am always focused on learning, sharing, and taking on new challenges.
@@ -55,6 +47,14 @@ I am a Systems Administrator and Solutions Architect with over 10 years of exper
   <img alt="Google Gemini" src="https://img.shields.io/badge/Google_Gemini-007ACC?style=for-the-badge&logo=google-gemini&logoColor=white" />
   <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-003545?style=for-the-badge&logo=github-copilot&logoColor=white" />
 </p>
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-204">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="DP-900">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Security,%20Compliance%20and%20Identity%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="SC-900">
+</div>
 
 ## 📈 GitHub Stats
 
