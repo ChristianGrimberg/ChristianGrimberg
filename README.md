@@ -2,6 +2,9 @@
 
 <div align="center">
   <p>
+    <a href="https://christiangrimberg.github.io/">
+      <img src="https://img.shields.io/badge/📄_Resume-View_My_CV-success?style=for-the-badge" alt="Resume">
+    </a>
     <a href="https://linkedin.com/in/christiangrimberg">
       <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -12,6 +15,9 @@
     </a>
   </p>
 </div>
+
+> 🌐 **My professional resume is now available in English and Spanish!**  
+> View at [christiangrimberg.github.io](https://christiangrimberg.github.io/) | [En Español](https://christiangrimberg.github.io/es/)
 
 ## 👨‍💻 About Me
 
