@@ -6,6 +6,7 @@ url: "https://christiangrimberg.github.io"
 
 # Build settings
 markdown: kramdown
+theme: null  # Explicitly disable theme to prevent GitHub Pages from applying defaults
 sass:
   sass_dir: _sass
   style: compressed

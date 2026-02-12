@@ -17,7 +17,7 @@
 </div>
 
 > 🌐 **My professional resume is now available in English and Spanish!**  
-> View at [christiangrimberg.github.io](https://christiangrimberg.github.io/) | [En Español](https://christiangrimberg.github.io/es/)
+> View at [https://christiangrimberg.github.io/ChristianGrimberg/](https://christiangrimberg.github.io/ChristianGrimberg/)
 
 ## 👨‍💻 About Me
 
@@ -59,10 +59,6 @@ I am a Systems Administrator and Solutions Architect with over 10 years of exper
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="DP-900">
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Security,%20Compliance%20and%20Identity%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="SC-900">
 </div>
-
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGrimberg&layout=compact&theme=dark)
 
 ![banner](./img/gridbar.png)
 
