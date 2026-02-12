@@ -4,13 +4,13 @@ This repository hosts my professional CV/Resume as a GitHub Pages site, built wi
 
 ## 🌐 Live Site
 
-Visit the live resume at: [https://christiangrimberg.github.io/](https://christiangrimberg.github.io/)
+Visit the live resume at: [https://christiangrimberg.github.io/ChristianGrimberg/](https://christiangrimberg.github.io/ChristianGrimberg/)
 
 ## 🌍 Languages
 
 The resume is available in two languages:
-- **English**: [https://christiangrimberg.github.io/](https://christiangrimberg.github.io/)
-- **Español**: [https://christiangrimberg.github.io/es/](https://christiangrimberg.github.io/es/)
+- **English**: [https://christiangrimberg.github.io/ChristianGrimberg/](https://christiangrimberg.github.io/ChristianGrimberg/)
+- **Español**: [https://christiangrimberg.github.io/ChristianGrimberg/es/](https://christiangrimberg.github.io/ChristianGrimberg/es/)
 
 Use the language switcher in the top-right corner to toggle between languages.
 
