@@ -11,13 +11,16 @@
 
       <header class="page-header">
 
-        <!-- Language switcher -->
+        <!-- Language switcher and PDF download -->
         <div class="language-switcher no-print">
           {% if page.lang == 'en' %}
             <a href="{{ site.baseurl }}/es/" class="lang-link">🇪🇸 Español</a>
           {% else %}
             <a href="{{ site.baseurl }}/" class="lang-link">🇬🇧 English</a>
           {% endif %}
+          <button onclick="window.print()" class="pdf-button" title="{{ site.data[page.lang].strings.download_pdf }}">
+            📄 {{ site.data[page.lang].strings.download_pdf }}
+          </button>
         </div>
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
