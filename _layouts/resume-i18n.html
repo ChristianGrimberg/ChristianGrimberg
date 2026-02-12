@@ -93,14 +93,15 @@
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
           <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
           <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
-          <p class="resume-item-copy" itemprop="description">
+          <div class="resume-item-copy" itemprop="description">
+            {% if education.awards %}
             <ul class="resume-item-list">
               {% for award in education.awards %}
               <li>{{ award.award }}</li>
               {% endfor %}
             </ul>
-
-
+            {% endif %}
+          </div>
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
         {% endfor %}
@@ -172,7 +173,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Associations</h2>
+          <h2>{{ site.data[page.lang].strings.section_associations }}</h2>
         </header>
 
         {% for association in site.data[page.lang].associations %}
@@ -192,7 +193,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Outside Interests</h2>
+          <h2>{{ site.data[page.lang].strings.section_interests }}</h2>
         </header>
 
         <div class="resume-item">
@@ -218,7 +219,7 @@
         <div class="resume-item">
           <ul class="resume-item-list">
             {% for link in site.data[page.lang].links %}
-            <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
+            <li><a href="{{ link.url }}" itemprop="url">{{ link.description }}</a></li>
             {% endfor %}
           </ul>
         </div>
