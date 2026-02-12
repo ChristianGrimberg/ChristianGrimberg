@@ -39,6 +39,15 @@
       border-color: #3d8b40;
     }
   }
+  
+  // Mobile view: position below avatar instead of overlapping
+  @include media_mobile {
+    position: static;
+    justify-content: center;
+    margin: 1rem auto 0;
+    max-width: 100%;
+    flex-wrap: wrap;
+  }
 }
 
 // Make header relative for absolute positioning of language switcher
