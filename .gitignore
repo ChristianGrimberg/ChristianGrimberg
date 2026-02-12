@@ -4,6 +4,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 _vendor
+vendor/
 
 # macOS
 .DS_Store
