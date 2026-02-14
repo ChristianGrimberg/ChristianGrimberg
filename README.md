@@ -17,7 +17,7 @@
 </div>
 
 > 🌐 **My professional resume is now available in English and Spanish!**  
-> View at [https://christiangrimberg.github.io/ChristianGrimberg/](https://christiangrimberg.github.io/ChristianGrimberg/)
+> View at [https://christiangrimberg.github.io/](https://christiangrimberg.github.io/)
 
 ## 👨‍💻 About Me
 
