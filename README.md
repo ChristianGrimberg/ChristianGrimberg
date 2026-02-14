@@ -16,9 +16,6 @@
   </p>
 </div>
 
-> 🌐 **My professional resume is now available in English and Spanish!**  
-> View at [https://christiangrimberg.github.io/](https://christiangrimberg.github.io/)
-
 ## 👨‍💻 About Me
 
 I am a Systems Administrator and Solutions Architect with over 10 years of experience in the pharmaceutical industry. I am passionate about technology, automation, cloud computing, artificial intelligence, and continuous improvement. I am always focused on learning, sharing, and taking on new challenges.
