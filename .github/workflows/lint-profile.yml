@@ -1,0 +1,45 @@
+name: Lint Profile
+
+on:
+  push:
+    branches: [main]
+    paths: ['README.md', 'AGENTS.md', '.github/workflows/**']
+  pull_request:
+    branches: [main]
+    paths: ['README.md', 'AGENTS.md', '.github/workflows/**']
+
+permissions:
+  contents: read
+
+jobs:
+  readme:
+    name: README hygiene
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Enforce README size
+        shell: bash
+        run: |
+          lines=$(wc -l < README.md)
+          echo "README.md has $lines lines"
+          if [ "$lines" -gt 250 ]; then
+            echo "::error::README.md is $lines lines; keep it under 250 for readability."
+            exit 1
+          fi
+
+      - name: Validate badge URLs
+        shell: bash
+        run: |
+          # Extract every img.shields.io URL from README.md and verify HTTP 200.
+          status=0
+          while IFS= read -r url; do
+            [ -z "$url" ] && continue
+            code=$(curl -sS -o /dev/null -w '%{http_code}' -L --max-time 10 "$url" || echo "000")
+            if [ "$code" != "200" ]; then
+              echo "::error file=README.md::Broken badge ($code): $url"
+              status=1
+            fi
+          done < <(grep -oE 'https?://[^)" ]+' README.md | sort -u | grep -E 'img\.shields\.io')
+          exit $status
