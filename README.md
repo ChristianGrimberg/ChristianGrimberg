@@ -3,10 +3,10 @@
 <div align="center">
   <p>
     <a href="https://christiangrimberg.github.io/">
-      <img src="https://img.shields.io/badge/📄_Resume-View_My_CV-success?style=for-the-badge" alt="Resume">
+      <img src="https://img.shields.io/badge/Resume-View_My_CV-success?style=flat-square" alt="Resume">
     </a>
     <a href="https://linkedin.com/in/christiangrimberg">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://github.com/ChristianGrimberg">
       <img src="https://img.shields.io/github/followers/ChristianGrimberg?label=Followers&style=social" alt="GitHub Followers">
