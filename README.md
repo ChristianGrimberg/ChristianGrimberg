@@ -78,8 +78,8 @@ I'm a **Systems Administrator & Solutions Architect** with 10+ years in the phar
 <details open>
 <summary><b>AI Coding Tools</b></summary>
 <p>
-  <img alt="Hermes Agent" src="https://img.shields.io/badge/Hermes_Agent-Nous_Research-0088CC?style=for-the-badge&logoColor=white" />
-  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-7C3AED?style=for-the-badge&logoColor=white" />
+  <img alt="Hermes Agent" src="https://img.shields.io/badge/Hermes-2A6FB9?style=for-the-badge&logo=hermes&logoColor=white" />
+  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-ff6b6b?style=for-the-badge&logo=opencode&logoColor=white" />
 </p>
 </details>
 
