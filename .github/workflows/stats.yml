@@ -2,7 +2,9 @@ name: Generate Stats SVG
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # Every Monday at 06:00 UTC (= 03:00 ART, UTC-03:00).
+    # GitHub Actions cron runs in UTC regardless of repo settings.
+    - cron: "0 6 * * 1"
   workflow_dispatch:
 
 permissions:
