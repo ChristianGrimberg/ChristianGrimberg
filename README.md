@@ -32,19 +32,6 @@ I'm a **Systems Administrator & Solutions Architect** with 10+ years in the phar
 
 > Stats are auto-generated every 6 hours by [`.github/workflows/stats.yml`](.github/workflows/stats.yml) using the official GitHub API — no third-party services.
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Description |
-|---|---|---|
-| [**educacionit-AZ204T00**](https://github.com/ChristianGrimberg/educacionit-AZ204T00) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=.net&logoColor=white) | Labs and exercises for the AZ-204 Azure Developer Associate track. ⭐ 2 |
-| [**platzi-courses-in-docker**](https://github.com/ChristianGrimberg/platzi-courses-in-docker) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | Dockerized runtime to practice Platzi courses from Bash. ⭐ 1 |
-| [**personal-site**](https://github.com/ChristianGrimberg/personal-site) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Source for my personal website. |
-| [**ChristianGrimberg.github.io**](https://github.com/ChristianGrimberg/ChristianGrimberg.github.io) | ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white) | Published GitHub Pages site, hosted from this repo. |
-
-</div>
-
 ## 🛠️ Tech Stack
 
 <details open>
@@ -57,7 +44,7 @@ I'm a **Systems Administrator & Solutions Architect** with 10+ years in the phar
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Databases</b></summary>
 <p>
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=sql-server&logoColor=white" />
@@ -65,7 +52,7 @@ I'm a **Systems Administrator & Solutions Architect** with 10+ years in the phar
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>DevOps & Cloud</b></summary>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -78,7 +65,7 @@ I'm a **Systems Administrator & Solutions Architect** with 10+ years in the phar
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Platforms & Hardware</b></summary>
 <p>
   <img alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
@@ -88,7 +75,7 @@ I'm a **Systems Administrator & Solutions Architect** with 10+ years in the phar
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>AI & Productivity</b></summary>
 <p>
   <img alt="Google Gemini" src="https://img.shields.io/badge/Google_Gemini-007ACC?style=for-the-badge&logo=google-gemini&logoColor=white" />
