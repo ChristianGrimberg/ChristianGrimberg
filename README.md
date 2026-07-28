@@ -76,10 +76,10 @@ I'm a **Systems Administrator & Solutions Architect** with 10+ years in the phar
 </details>
 
 <details open>
-<summary><b>AI & Productivity</b></summary>
+<summary><b>AI Coding Tools</b></summary>
 <p>
-  <img alt="Google Gemini" src="https://img.shields.io/badge/Google_Gemini-007ACC?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-003545?style=for-the-badge&logo=github-copilot&logoColor=white" />
+  <img alt="Hermes Agent" src="https://img.shields.io/badge/Hermes_Agent-Nous_Research-0088CC?style=for-the-badge&logoColor=white" />
+  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-7C3AED?style=for-the-badge&logoColor=white" />
 </p>
 </details>
 
